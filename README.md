@@ -1,4 +1,4 @@
-##LilRegexExlplained
+LilRegexExlplained
 
 Here are some of the most common regex patterns:
 
