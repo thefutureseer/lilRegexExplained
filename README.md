@@ -1,4 +1,4 @@
-LilRegexExlplained
+# LilRegexExlplained
 
 Here are some of the most common regex patterns:
 
@@ -38,9 +38,7 @@ Here are some of the most common regex patterns:
 10. **Escaping Special Characters:**
     - `\`: Escapes a special character, allowing you to match it literally.
 
-These are just a few examples, and regex patterns can become more complex based on specific requirements.
-
-#Here are some complex examples of regular expressions:
+# Here are some complex examples of regular expressions:
 
 1. **Email Validation:**
    ```regex
