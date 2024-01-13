@@ -1,5 +1,9 @@
 # LilRegexExlplained
 
+Regular expressions (regex) matching is facilitated by software or programming libraries that provide regex engines. These engines are responsible for interpreting the regex patterns and determining whether a given string matches the specified pattern. 
+
+Many programming languages come with built-in support for regex. Examples include JavaScript, Python, Java, Ruby, and others.. These languages provide functions or methods for working with regex patterns.
+
 Here are some of the most common regex patterns:
 
 1. **Matching Digits:**
