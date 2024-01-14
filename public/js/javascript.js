@@ -15,7 +15,7 @@ function addText() {
     const userInput = prompt('Enter text to add to README.md:');
     if (userInput) {
         // Send the user input to the server
-        fetch('http://localhost:8080/addText', {
+        fetch('https://lilregexexplained.onrender.com/addText', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
