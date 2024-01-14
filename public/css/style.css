@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  margin: 20px;
+  line-height: 1.6;
+  text-align: center; /* Center the content */
+  color: whitesmoke;
+}
+
+#markdown-content {
+  text-align: left; /* Align content within the div to the left */
+  display: inline-block; /* Center inline-block within the centered body */
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+a {
+  color: #007BFF;
+}
+
+/* Rainbow colors for rows */
+#markdown-content > ol > li:nth-child(1) {
+  color: #ff00ea; /* pink */
+}
+
+#markdown-content > ol > li:nth-child(2) {
+  color: #FFA500; /* Orange */
+}
+
+#markdown-content > ol > li:nth-child(3) {
+  color: #FFFF00; /* Yellow */
+}
+
+#markdown-content > ol > li:nth-child(4) {
+  color: #00FF00; /* Green */
+}
+
+#markdown-content > ol > li:nth-child(5) {
+  color: #cc00ff; /* purp */
+}
+
+#markdown-content > ol > li:nth-child(6) {
+  color: #0066ff; /* Blue */
+}
+
+#markdown-content > ol > li:nth-child(7) {
+  color: #ff0044; /* Blue */
+}
+
+#markdown-content > ol > li:nth-child(8) {
+  color: #ffffffc3; /* Blue */
+}
