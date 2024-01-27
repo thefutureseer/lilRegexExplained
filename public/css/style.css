@@ -60,3 +60,7 @@ a {
 #markdown-content > ol > li:nth-child(10) {
   color: #00c8ff; /* Light Blue */
 }
+
+#markdown-content > ol > li:nth-child(11) {
+  color: #d9ff00; /* Yellow */
+}
