@@ -41,6 +41,11 @@ Here are some of the most common regex patterns:
 
 10. **Escaping Special Characters:**
     - `\`: Escapes a special character, allowing you to match it literally.
+   
+11. **Parentheses:**
+    - ( and ): Parentheses are used to group the pattern in a few ways.
+      
+
 
 # Here are some complex examples of regular expressions:
 
