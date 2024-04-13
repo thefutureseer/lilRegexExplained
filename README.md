@@ -1,5 +1,5 @@
 # LilRegexExlplained  
-(In version 2.0.0 allows user to add complex regular expression at the bottom and download the file to your device.)
+(In version 2.0.0 allows user to add complex regular expression at the bottom and v-3 you will be able to download the file to your device.)
 
 Regular expressions (regex) matching is facilitated by software or programming libraries that provide regex engines. These engines are responsible for interpreting the regex patterns and determining whether a given string matches the specified pattern. 
 
